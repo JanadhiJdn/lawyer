@@ -1,0 +1,39 @@
+body{
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+    background-color: #f2f2f2;
+    background-image: url("1.jpg");
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 40px 10px;
+}
+#div-middle{
+
+}
+
+h4{
+    color: #36454f;
+}
+h3{
+    font-family:Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
+}
+nav.navbar.navbar-default{
+    margin-bottom:1px red;
+    background-color: #00a087;
+    position: default;
+}
+
+@media (min-width:992px) {
+    .product h2{
+        margin-top:0;
+    }
+}
+
+.navbar .navbar-brand{
+    font-size:24px;
+    line-height:18px;
+    background-color: #009790;
+    color: #DBE6E0;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
