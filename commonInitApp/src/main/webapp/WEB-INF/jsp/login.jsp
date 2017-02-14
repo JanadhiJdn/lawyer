@@ -45,11 +45,9 @@
                             <label style="font-weight: 400">Forgot password? <a href="">Click here</a></label>  <br>    
                             <label style="font-weight: 400">Create New Account?  <a href="<c:url value='signup'/>" style="color: green">Sign Up</a></label>                       
                         </div>
-
                     </div>
                 </div> 
-
             </div>
-        </div> 
+        </div>                           
     </body>
 </html>

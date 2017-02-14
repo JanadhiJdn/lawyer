@@ -1,7 +1,7 @@
 body{
   font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif;
   background-color: #f2f2f2;
-  background-image: url("1.jpg");
+  background-image: url("../img/background.jpg");
   background-repeat: no-repeat;
   padding-top: 60px;
   padding-left: 40px;
@@ -22,13 +22,6 @@ nav.navbar.navbar-default{
   background-color: #00a087;
   position: default;
 }
-
-@media (min-width:992px) {
-  .product h2{
-    margin-top:0;
-  }
-}
-
 .navbar .navbar-brand{
   font-size:24px;
   line-height:18px;
